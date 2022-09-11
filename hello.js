@@ -1,1 +1,1 @@
-alert("Hello Webflow!")';
+alert("Hello Webflow!");
