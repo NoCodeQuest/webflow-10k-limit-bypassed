@@ -16,7 +16,7 @@ Create a new repo in Github to host your Javascript.
 
 Upload the Javascript.
 
-Here's a [simple example of mine within this repo](https://github.com/NoCodeQuest/webflow-10k-limit-bypassed/blob/main/hello.js).
+Here's a [simple example of mine within this repo](https://github.com/NoCodeQuest/webflow-10k-limit-bypassed/blob/main/hello-20k.js).
 
 **Step 3:**
 
